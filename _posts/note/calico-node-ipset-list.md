@@ -1,8 +1,8 @@
 ---
-layout: calico-node-ipset-list
-title: "POST TITLE"
-date: 2022年6月5日
-categories: CATEGORY-1 CATEGORY-2
+layout: post
+title: "calico-node-ipset-list"
+date: 2022-06-05
+categories: k8s calico
 ---
 #
 ## 问题排查
