@@ -3,7 +3,6 @@ layout: post
 title: "calico-node-ipset-list"
 date: 2022-06-05
 categories: k8s calico
-permalink: /note/calico-node-ipset-list
 
 
 ---
